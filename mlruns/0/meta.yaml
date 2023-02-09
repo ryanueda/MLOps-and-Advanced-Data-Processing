@@ -1,6 +1,6 @@
-artifact_location: file:///c:/Users/rutsm/Downloads/PAI%20CA2/PAI-CA2/mlruns/0
-creation_time: 1675756598417
+artifact_location: mlflow-artifacts:/0
+creation_time: 1675756004221
 experiment_id: '0'
-last_update_time: 1675756598417
+last_update_time: 1675756004221
 lifecycle_stage: active
 name: Default
