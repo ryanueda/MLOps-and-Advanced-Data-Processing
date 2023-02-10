@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fda6965dc76e42e180424bfd42884b90/artifacts
+end_time: 1675962402049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fda6965dc76e42e180424bfd42884b90
+run_name: 'Component Analysis: 21'
+run_uuid: fda6965dc76e42e180424bfd42884b90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675962392921
+status: 3
+tags: []
+user_id: rutsm

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c29d5e719f034e3596dfe5014906d652/artifacts
+end_time: 1675968963878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c29d5e719f034e3596dfe5014906d652
+run_name: Grid Search
+run_uuid: c29d5e719f034e3596dfe5014906d652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675962466625
+status: 4
+tags: []
+user_id: rutsm

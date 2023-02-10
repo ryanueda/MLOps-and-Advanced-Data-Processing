@@ -1,0 +1,17 @@
+artifact_uri: mlflow-artifacts:/0/d4f697b5f256462fb3435d45a967f9d6/artifacts
+end_time: 1676004608103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4f697b5f256462fb3435d45a967f9d6
+run_name: 'baseline model selection: Random
+
+  Forest'
+run_uuid: d4f697b5f256462fb3435d45a967f9d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676004601381
+status: 3
+tags: []
+user_id: rutsm

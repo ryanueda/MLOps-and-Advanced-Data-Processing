@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/859a312ae9b6400199e8ccf19344ae4b/artifacts
+end_time: 1676004750104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 859a312ae9b6400199e8ccf19344ae4b
+run_name: 'Component Analysis: 24'
+run_uuid: 859a312ae9b6400199e8ccf19344ae4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676004740322
+status: 3
+tags: []
+user_id: rutsm

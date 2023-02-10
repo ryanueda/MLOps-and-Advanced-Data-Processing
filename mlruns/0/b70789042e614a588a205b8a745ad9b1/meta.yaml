@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b70789042e614a588a205b8a745ad9b1/artifacts
+end_time: 1675962293478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b70789042e614a588a205b8a745ad9b1
+run_name: 'baseline model selection: Adaboost'
+run_uuid: b70789042e614a588a205b8a745ad9b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675962291648
+status: 3
+tags: []
+user_id: rutsm

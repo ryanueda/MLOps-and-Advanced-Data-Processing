@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/82ae5338285c4b30905a4a7da8942d39/artifacts
+end_time: 1675962267105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82ae5338285c4b30905a4a7da8942d39
+run_name: 'baseline model selection: knn'
+run_uuid: 82ae5338285c4b30905a4a7da8942d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675962266234
+status: 3
+tags: []
+user_id: rutsm

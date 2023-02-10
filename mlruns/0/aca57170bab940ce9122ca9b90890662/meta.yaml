@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aca57170bab940ce9122ca9b90890662/artifacts
+end_time: 1675962441173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aca57170bab940ce9122ca9b90890662
+run_name: 'Component Analysis: 25'
+run_uuid: aca57170bab940ce9122ca9b90890662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675962429780
+status: 3
+tags: []
+user_id: rutsm

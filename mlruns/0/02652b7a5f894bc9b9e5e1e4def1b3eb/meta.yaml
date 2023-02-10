@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/02652b7a5f894bc9b9e5e1e4def1b3eb/artifacts
+end_time: 1675962284405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02652b7a5f894bc9b9e5e1e4def1b3eb
+run_name: 'baseline model selection: NaiveBayes'
+run_uuid: 02652b7a5f894bc9b9e5e1e4def1b3eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675962284357
+status: 3
+tags: []
+user_id: rutsm

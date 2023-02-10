@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9af2fedfb1904915ae328c569068fffb/artifacts
+end_time: 1675962284279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9af2fedfb1904915ae328c569068fffb
+run_name: 'baseline model selection: CART'
+run_uuid: 9af2fedfb1904915ae328c569068fffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675962283896
+status: 3
+tags: []
+user_id: rutsm

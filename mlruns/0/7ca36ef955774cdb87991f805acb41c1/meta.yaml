@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7ca36ef955774cdb87991f805acb41c1/artifacts
+end_time: 1676004618441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ca36ef955774cdb87991f805acb41c1
+run_name: Outlier Detection True
+run_uuid: 7ca36ef955774cdb87991f805acb41c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676004610904
+status: 3
+tags: []
+user_id: rutsm

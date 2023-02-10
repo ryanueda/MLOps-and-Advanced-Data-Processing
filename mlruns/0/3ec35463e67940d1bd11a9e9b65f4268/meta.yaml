@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3ec35463e67940d1bd11a9e9b65f4268/artifacts
+end_time: 1675962291638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ec35463e67940d1bd11a9e9b65f4268
+run_name: 'baseline model selection: XGBClassifier'
+run_uuid: 3ec35463e67940d1bd11a9e9b65f4268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675962291054
+status: 3
+tags: []
+user_id: rutsm

@@ -1,0 +1,17 @@
+artifact_uri: mlflow-artifacts:/0/340d1bfcf3b547d18be2dccb5931a2a3/artifacts
+end_time: 1676004601322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 340d1bfcf3b547d18be2dccb5931a2a3
+run_name: 'baseline model selection: Logistic
+
+  Regression'
+run_uuid: 340d1bfcf3b547d18be2dccb5931a2a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676004601259
+status: 3
+tags: []
+user_id: rutsm

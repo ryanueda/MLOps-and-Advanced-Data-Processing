@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c75f0b0b7f0844bc9e974cffaa6967ea/artifacts
+end_time: 1676004643569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c75f0b0b7f0844bc9e974cffaa6967ea
+run_name: PCA False
+run_uuid: c75f0b0b7f0844bc9e974cffaa6967ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676004632996
+status: 3
+tags: []
+user_id: rutsm
